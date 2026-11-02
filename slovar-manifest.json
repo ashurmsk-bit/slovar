@@ -1,0 +1,13 @@
+{
+  "name": "Мой словарь",
+  "short_name": "Словарь",
+  "start_url": "./slovar.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0b6b5c",
+  "icons": [
+    {"src": "slovar-icon.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "slovar-icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
